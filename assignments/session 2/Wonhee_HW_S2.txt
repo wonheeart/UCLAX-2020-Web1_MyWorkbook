@@ -1,0 +1,9 @@
+Final Project:  Personal Design Portfolio Website
+
+Essay: Explain the difference between HTML, CSS, and JS.
+
+The easiest analogy that I found online explaining the difference between the 3 is through 3 animated GIF of a LEGO mini-figure.  It is an image of Skeleton representing HTML, fully dressed figure representing CSS, and the figure dancing representing JavaScript.
+
+HTML, acronym for Hypertext Markup Language is the backbone and the scaffolding which is responsible for defining the structure of the website.  CSS which stands for Cascading Style Sheets are the design and style that are added to the website.  JS or JaveScript is the interactivity and dynamic component of the website that brings it to life from just a static page.
+
+https://qph.fs.quoracdn.net/main-qimg-d46874fe1c78ad54e201c24a81ed4a40
