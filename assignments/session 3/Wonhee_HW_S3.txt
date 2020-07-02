@@ -1,5 +1,8 @@
 Essay: What do people mean by "Separation of Concerns" in relationship to HTML, CSS and JS?
 
-Separation of concerns is the idea that every module or layer built for a application should be separated to one responsibility and not contain code that deals with other things. 
+Separation of concerns is the idea that every module or layer built for a application
+should be separated to one responsibility and not contain code that deals with other 
+things. 
 
-In relationship to HTML, CSS and JS, this would mean that HTML, CSS and JS all live in separate files.
+In relationship to HTML, CSS and JS, this would mean that HTML, CSS and JS all live in 
+separate files.
