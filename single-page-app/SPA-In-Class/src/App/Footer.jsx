@@ -3,7 +3,11 @@ import styled from 'styled-components';
 
 const Footer = () => {
     return (
-        <FooterStyled>My Footer</FooterStyled>
+        <FooterStyled>
+            <div className='nested-wrapper'>
+                My Footer
+            </div>
+        </FooterStyled>
     );
 }
 

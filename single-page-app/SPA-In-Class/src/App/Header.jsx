@@ -3,13 +3,18 @@ import styled from 'styled-components';
 
 const Header = () => {
     return (
-        <HeaderStyled>My header</HeaderStyled>
+        <HeaderStyled>
+            <div className="nested-wrapper">
+                My Header
+            </div>
+        </HeaderStyled>
     );
 }
 
 export default Header;
 
 const HeaderStyled = styled.header`
-    background-color: brown;
-    font-size: 45px;
+    background-color: teal;
+    padding: 20px;
+    font-size: 30px;
 `

@@ -1,0 +1,12 @@
+Essay: What is the difference between Web Designer, Front End Developer and 
+Back End Developer?
+
+Web Designers often referred as product designers lately is a profession of designing
+and concepting information architecture, user experience, and visual interface of a 
+website or app.
+
+Front end developer and developers that make the designs come to life.  Most common
+languages they use are HTML, CSS and JS.
+
+Back end developers are developers that work in programming languages and frameworks 
+that deal with databases and APIs.  Typical languages are Python, Ruby, and Django.
