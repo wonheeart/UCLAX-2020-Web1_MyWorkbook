@@ -4,7 +4,7 @@ Essay: Read file relationships: (Site Relative, Document Relative, and Absolute 
 Site relative paths describes the path from a site's root folder all the way to the document.
 This type of pathing is typically used in large websites that uses several servers.
 
-Document realtive paths are usually the most commonly used in today's websites.  This pathing
+Document relative paths are usually the most commonly used in today's websites.  This pathing
 is particularly useful when current document and other linked documents are all under 
 the same folder. When you use this type of pathing, you leave out the absolute URL and only 
 provide the pathing that is different.
