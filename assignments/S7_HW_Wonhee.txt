@@ -1,0 +1,17 @@
+Essay: What it means for a company to be Agile. What is the purpose of using Agile, and
+its Pros and Cons.
+
+Agile development stems from a production method called Kanban (Japanese) which is a approach
+to eliminate bottlenecks in production pipeline and quickly shift capacity based on production
+needs.  The Kannab method is a production model inspired by the Toyota production system.
+
+Agile in software development further guides process to make it easier for iterative work, 
+build instead of document, test early and often, and make collaboration between all functional
+teams instead of a step by step process.
+
+The opposite type development is called waterfall, where all the work needs to get documented,
+and the devlopment cycle goes through exact steps with eact owners during those steps.
+
+The pros of going agile in a software development is that you get to a result fast, and it is
+meant to be very efficient so there are very little idle time.  The con is, you are constantly
+changing course and iterating since you start building without the full specs.
