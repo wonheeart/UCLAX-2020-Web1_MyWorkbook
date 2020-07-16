@@ -5,11 +5,11 @@ Agile development stems from a production method called Kanban (Japanese) which 
 to eliminate bottlenecks in production pipeline and quickly shift capacity based on production
 needs.  The Kannab method is a production model inspired by the Toyota production system.
 
-Agile in software development further guides process to make it easier for iterative work, 
-build instead of document, test early and often, and make collaboration between all functional
-teams instead of a step by step process.
+Agile in software development further guides the process to make it easier for iteration, 
+to build instead of document, to test early and often, and foster collaboration between all 
+functional teams.
 
-The opposite type development is called waterfall, where all the work needs to get documented,
+The opposite type of development is called waterfall which all the work needs gets documented,
 and the devlopment cycle goes through exact steps with eact owners during those steps.
 
 The pros of going agile in a software development is that you get to a result fast, and it is
