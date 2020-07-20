@@ -1,0 +1,20 @@
+Essay: Define the following roles: Project Manager, Business Analyst, Scrum Master, UX designer,
+Web Developer / Engineer, Quality Assurance Tester, and Dev Ops.
+
+Project Manager: The role which is responsible for planning and executing a project.
+
+Business Analyst: This role is responsible for using analytics to assess and bridge the gap
+between the development team and the business team.
+
+Scrum Master: This role is responsible for managing and ensuring that the team is following
+the Agile process.  This role will run all the sprint meetings and help clear any bottlenecks.
+
+UX designer:  This is the designer role responsible for delivering all design assets to the team.
+
+Web Developer/Engineer: The developer/engineering rensponsible for writing the code to build the
+product.
+
+Quality Assurance Tester: The role responsible to test the finished code for any quality or spec
+deffects.
+
+DevOps: This role is responsible for oversseing the deployment of the code releases.
