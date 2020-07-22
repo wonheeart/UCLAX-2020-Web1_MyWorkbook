@@ -1,0 +1,9 @@
+Essay: What is the difference between jpg, gif, png and SVG images?
+
+JPG: Most commonly used lossy compression of flat digital images
+
+GIF: Image format that supports animation sequence
+
+PNG: Raster graphics format that supports transparencies
+
+SVG: Vector image format that is scalable and editable
