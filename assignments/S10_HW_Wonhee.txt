@@ -1,0 +1,13 @@
+Essay: What are testing environments? What is the difference between Local, Dev, QA and Production?
+
+Testing environments: Set up of software and hardware so teams can test their builds.
+
+Local testing: testing environment built in a local server or folders for internal testing.
+
+Dev testing: Test done from the development side to make sure the code is working properly.
+
+QA testing: Quality assurance testing done by testing experts to ensure the product is at the
+highest possible quality prior to deploying.
+
+Production testing:  It is the continuous testing procedure of the product after deployment and 
+in the production servers.
