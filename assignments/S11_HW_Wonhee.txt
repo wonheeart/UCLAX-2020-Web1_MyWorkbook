@@ -1,4 +1,4 @@
 Essay: Function vs Form: When are web images considered part of the content (HTML) as 
 opposed to part of the appearance (CSS)?
 
-Images used in HTML is used as content while you use images in CSS as decorative purposes.
+Images used in HTML is used as content while you use images in CSS as decorative and appearance purposes.
