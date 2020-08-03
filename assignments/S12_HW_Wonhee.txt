@@ -1,0 +1,8 @@
+Essay: What is considered the right size for an image or video asset?
+
+There are 2 aspects of size in media assets (image, video).  First is the file size, how large
+is the file size?  The smaller the file size, it is beeter for the user to navigate and will
+affect the performance of the site over all.  However, we need to also think about the pixel
+size of the assets.  If it requires too much scaling up, the image or video quality will 
+deteriorate.  So the key is the right balance of keeping the assets the right physical size 
+while keeping the file size as minimal as possible.
