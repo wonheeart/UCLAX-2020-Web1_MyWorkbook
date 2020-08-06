@@ -1,0 +1,7 @@
+Essay: What is the difference between ID's, Classes and Tags? 
+How does Specificity play a role in the selection of HTML elements (both in CSS and JS)
+
+ID is used to identify a single element and Classes is used to identify more than one.
+
+Specificity allows the CSS properties to be changed to the best appropriate format 
+depending upon the browser type.
