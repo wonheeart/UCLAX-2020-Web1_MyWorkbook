@@ -1,0 +1,4 @@
+Essay: Why is Web Accessibility important?
+
+It's important to provide accesibility to as much people as possible.  This includes older people,
+people with disabilities, people with limited network or hardware, people in rural areas.
