@@ -1,0 +1,9 @@
+Essay: What is a CSS Preprocessor? What are some examples? In React, what are styled components?
+How do Styled Components violate separation of concerns?
+
+CSS preprocessors is a program that lets you generate CSS from it's unique syntax.  Most CSS 
+preprocessors will add features on top of pure CSS such as nesting, inheriting or mixing.
+
+Styled Components is a React library that allows you use component-level styles in your app
+with a mixture of JS and CSS.  Because of this mixing, it is said that it violates the
+separation of concerns, which HTML, CSS and JS were supposed to be separated.
