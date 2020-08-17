@@ -1,0 +1,5 @@
+Essay: What is the difference between Web Hosts, Domains, and FTP?
+
+Web hosts is the space where you house your site, the Domain is the address to your site and FTP 
+is short for File Transfer Protocol which is used to transfer the site files to the hosting 
+account.
