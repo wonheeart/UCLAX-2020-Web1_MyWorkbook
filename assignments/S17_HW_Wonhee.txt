@@ -1,0 +1,9 @@
+Essay: What is a Package Manager (e.g. NPM, Composer)? How does it play a role in software 
+development?
+
+Package Manager is used to find, install, maintain and uninstall software packages.
+
+NPM is used for Node JS platform and Composer is used for PHP projects.
+
+Package Managers play a role of managing dependencies to ensure  all packages are installed
+and avoid "dependency hell".
